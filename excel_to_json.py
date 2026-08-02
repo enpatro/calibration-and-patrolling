@@ -1,1 +1,1 @@
-print("converter placeholder")
+print("Use templates and export JSON")

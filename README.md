@@ -1,1 +1,1 @@
-v10 tested: Navigation tabs and Bulk/Admin upload page fixed. Upload all extracted files to GitHub root.
+Compliance Portal V11. Dashboard, Patrolling and Calibration layouts are matched to provided screenshots. Navigation and bulk upload are tested. Upload all extracted files to GitHub root.
