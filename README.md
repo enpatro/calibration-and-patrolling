@@ -1,1 +1,1 @@
-Complete uploadable bundle v9. Bulk/Admin upload is fixed. Upload all extracted files to GitHub repository root.
+v10 tested: Navigation tabs and Bulk/Admin upload page fixed. Upload all extracted files to GitHub root.
