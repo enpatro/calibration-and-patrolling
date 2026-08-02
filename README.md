@@ -20,3 +20,7 @@
 
 ## V13 Fix
 Tabs and pages fixed. Firebase SDK is now loaded dynamically only when Login is clicked, so dashboard navigation will work even before Firebase config is filled.
+
+
+## V14 Firebase Status Fix
+Bulk/Admin now shows Firebase Config, SDK Connectivity, Login Status, and Firestore Write status cards. Login errors are shown in the Upload / Firestore Write Log.
