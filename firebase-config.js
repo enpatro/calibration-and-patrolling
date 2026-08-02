@@ -1,1 +1,8 @@
-export const firebaseConfig={apiKey:"AIzaSyDqtU3TD9vzoePW39PU4JLQmbdpJT_cf7A",authDomain:"AIzaSyDqtU3TD9vzoePW39PU4JLQmbdpJT_cf7A",projectId:"calibration-1a2d3",storageBucket:"calibration-1a2d3.firebasestorage.app"};
+export const firebaseConfig = {
+  apiKey: 'REPLACE_WITH_API_KEY',
+  authDomain: 'REPLACE_WITH_PROJECT_ID.firebaseapp.com',
+  projectId: 'REPLACE_WITH_PROJECT_ID',
+  storageBucket: 'REPLACE_WITH_PROJECT_ID.appspot.com',
+  messagingSenderId: 'REPLACE_WITH_SENDER_ID',
+  appId: 'REPLACE_WITH_APP_ID'
+};

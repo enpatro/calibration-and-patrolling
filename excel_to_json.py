@@ -1,1 +1,1 @@
-print("Use templates and export JSON")
+print("Use Bulk/Admin upload and Firestore write")
