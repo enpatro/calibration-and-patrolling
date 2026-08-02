@@ -1,1 +1,1 @@
-export const firebaseConfig={apiKey:"REPLACE",authDomain:"REPLACE",projectId:"REPLACE",storageBucket:"REPLACE"};
+export const firebaseConfig={apiKey:"AIzaSyDqtU3TD9vzoePW39PU4JLQmbdpJT_cf7A",authDomain:"AIzaSyDqtU3TD9vzoePW39PU4JLQmbdpJT_cf7A",projectId:"calibration-1a2d3",storageBucket:"calibration-1a2d3.firebasestorage.app"};
