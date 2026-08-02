@@ -1,1 +1,1 @@
-Flat structure fix: upload all files to repo root. index.html expects calibration.json, patrolling.json and firebase-config.js in root.
+V16 render fix. Replace index.html, calibration.json, patrolling.json, firebase-config.js in GitHub root.
