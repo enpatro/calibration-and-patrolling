@@ -1,0 +1,32 @@
+[
+  {
+    "area": "CA4",
+    "machineNo": "CA4M28",
+    "gaugeId": "CA4M28-PG02",
+    "certificateNo": "VI/25-26/4650-122",
+    "gaugeDescription": "SHUTTER DOOR",
+    "range": "0-0.4 MPA",
+    "workRange": "0.1-0.2 MPA",
+    "lc": "0.11",
+    "errorPercent": "0.05 MPA",
+    "calibrationDate": "27-12-2025",
+    "dueDate": "28-12-2026",
+    "error %": "0.002",
+    "certificateFileName": "CA4M28-PG02.pdf"
+  },
+  {
+    "area": "CA4",
+    "machineNo": "CA4M28",
+    "gaugeId": "CA4M28-PG03",
+    "certificateNo": "VI/25-26/4650-123",
+    "gaugeDescription": "FRL UNIT",
+    "range": "0-1 MPA",
+    "workRange": "0.4-0.6 MPA",
+    "lc": "0.11",
+    "errorPercent": "0.05 MPA",
+    "calibrationDate": "27-12-2025",
+    "dueDate": "28-12-2026",
+    "error %": "0.002",
+    "certificateFileName": "CA4M28-PG03.pdf"
+  }
+]
