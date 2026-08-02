@@ -16,3 +16,7 @@
 6. Copy Firebase web app config into `assets/js/firebase-config.js`.
 7. Upload all files to GitHub root.
 8. Login from Bulk/Admin tab.
+
+
+## V13 Fix
+Tabs and pages fixed. Firebase SDK is now loaded dynamically only when Login is clicked, so dashboard navigation will work even before Firebase config is filled.
